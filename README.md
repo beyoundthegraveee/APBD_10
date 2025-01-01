@@ -16,3 +16,19 @@ Simplifies database interactions (CRUD operations) with LINQ and EF Core feature
 Relational Database Support:
 
 Compatible with SQL Server and other relational database systems.
+
+Tech Stack
+Language: C#
+Framework: .NET Core with Entity Framework Core
+Database: SQL Server
+Tools: EF Core Migrations, LINQ
+Purpose
+This project is designed to:
+
+Demonstrate the Code-First approach for database creation and management.
+Showcase how to effectively use migrations for schema updates.
+Serve as a learning resource for developers exploring modern database practices.
+Future Improvements
+Add seed data for easier testing and demonstration.
+Implement advanced EF Core features like lazy loading or query optimization.
+Create unit tests for database-related operations.
